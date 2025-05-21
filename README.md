@@ -1,1 +1,3 @@
-# GCP-DevOps-Project - feature edit
+# Docker flask application
+
+- This application will be written in python
